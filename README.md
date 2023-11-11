@@ -13,22 +13,21 @@ Wir möchten mit dem hier skizzierten Workshop einen positiven und langanhaltend
    - Der Aufbau des Workshops hin zur Erstellung eines eigenen Spiels und Controllers bietet ein klares Ziel. Jugendliche können sich auf ein konkretes, greifbares Ergebnis freuen, was als starker Motivator dient. Die Freude über das selbst Geschaffene ist eine große Belohnung und kann die Selbstwirksamkeit erhöhen.
 5. **Technologische Bildung:**
    - Ein Verständnis für die Funktionsweise von Technologie ist in der heutigen Gesellschaft unerlässlich. Der Workshop fördert diese Kompetenz, indem grundlegende Fertigkeiten in den Bereichen Programmierung, Design und Elektronik vermittelt werden.
-8. **Spaß am Lernen:**
-   - Indem der Workshop Spaß mit Lernen verbindet, kann die Begeisterung für Bildung geweckt werden. Ein spielerischer Zugang zu ernsten Themen wie Mathematik und Logik kann dabei helfen, eventuelle Vorbehalte abzubauen und das Interesse an diesen Fächern zu steigern.
 
 ## Workshop-Ziele
 
 Am Ende des Workshops sollen die Teilnehmenden:
 
 - Ein grundlegendes Verständnis von Scratch und der Spieleentwicklung haben.
-- Ein einfaches Spiel mit eigener Story und Designelementen entwickelt haben.
+- Ein Spiel mit eigener Story und Designelementen entwickelt haben.
 - Einen grundlegenden Spielecontroller entworfen und gebaut haben.
 - Die Fähigkeit besitzen, Problemlösung durch kreatives Denken und technisches Know-how anzuwenden.
+- Programmierung eines MicroControllers mit Python (CircuitPython)
 - Löten und Grundsätzliches Verständnis von Elektronik
 
 ## Differenzierung 
 
-Für jeden Workshop gibt es verschiedene möglichkeiten der Differenzierung: nicht jeder Teilnehmer ist auf dem gleichen Stand - so wir niemand überfordert - und niemanden wird es langweilig. 
+Für die Workshop gibt es verschiedene möglichkeiten der Differenzierung: nicht jeder Teilnehmer ist auf dem gleichen Stand - so wir niemand überfordert - und niemanden wird es langweilig. 
 
 Hierbei werden die Aufgaben in drei Kategorien aufgeteilt, die den Anfänger-, Fortgeschrittenen- und Experten-Level repräsentieren:
 
@@ -56,61 +55,78 @@ Jeder Teil, oder besser gesagt jedes **Level** besteht aus 2 Workshops mit jewei
 
 ### [Level 1: Einführung in Scratch](1-EinfuehrungScratch.md)
 
-- **Ziele:**
-  - Grundlagen von Scratch kennenlernen.
-  - Erste einfache Spiele entwickeln.
-  - Verständnis für die Logik hinter der Spieleprogrammierung aufbauen.
-- **Aktivitäten:**
-  - Erstellen eines Scratch-Accounts und Orientierung in der Scratch-Oberfläche.
-  - Einfache Code-Blöcke und deren Funktionen ausprobieren.
-  - Erstes Mini-Projekt: DoodleJump! Einfacher Platformer. 
+**Ziele:**
+
+- Grundlagen von Scratch kennenlernen.
+- Erste einfache Spiele entwickeln.
+- Verständnis für die Logik hinter der Spieleprogrammierung aufbauen.
+
+**Aktivitäten:**
+
+- Erstellen eines Scratch-Accounts und Orientierung in der Scratch-Oberfläche.
+- Einfache Code-Blöcke und deren Funktionen ausprobieren.
+- Erstes Mini-Projekt: DoodleJump! Einfacher Platformer. 
 
 ### Level 2: Vertiefung der Spielentwicklung und Controller-Design
 
-- **Ziele:**
-  - Erweiterte Funktionen von Scratch erkunden.
-  - Grundlagen des Game Designs und der Benutzererfahrung erlernen.
-  - Erste Entwürfe und Ideen für eigene Controller entwickeln.
-- **Aktivitäten:**
-  - Komplexere Spiele mit Variablen, Schleifen und bedingten Anweisungen bauen.
-  - Brainstorming und Skizzierung von Controller-Designs.
-  - Diskussion über die Verbindung zwischen Spielmechaniken und Controller-Design.
+**Ziele:**
 
-### Level 3: Einführung in TinkerCAD und Start des Controller-Designs
+- Erweiterte Funktionen von Scratch erkunden.
+- Grundlagen des Game Designs und der Benutzererfahrung erlernen.
+- Erste Entwürfe und Ideen für eigene Controller entwickeln.
 
-- **Ziele:**
-  - Grundlagen der 3D-Modellierung mit TinkerCAD kennenlernen.
-  - Erste Modelle für Spiel-Controller erstellen.
-  - Design-Entscheidungen im Hinblick auf Ergonomie und Funktionalität treffen.
-- **Aktivitäten:**
-  - Erste Schritte und Grundfunktionen in TinkerCAD.
-  - Erstellung einfacher 3D-Modelle für den Controller.
-  - Feedbackrunde und Verbesserung der Entwürfe.
+**Aktivitäten:**
+
+- Komplexere Spiele mit Variablen, Schleifen und bedingten Anweisungen bauen.
+- Brainstorming und Skizzierung von Controller-Designs.
+- Diskussion über die Verbindung zwischen Spielmechaniken und Controller-Design.
+
+### Level 3: Einführung in TinkerCAD und Controller-Designs
+
+**Ziele:**
+
+- Grundlagen der 3D-Modellierung mit TinkerCAD kennenlernen.
+- Erste Modelle für Spiel-Controller erstellen.
+- Design-Entscheidungen im Hinblick auf Ergonomie und Funktionalität treffen.
+
+**Aktivitäten:**
+
+- Erste Schritte und Grundfunktionen in TinkerCAD.
+- Erstellung einfacher 3D-Modelle für den Controller.
+- Feedbackrunde und Verbesserung der Entwürfe.
 
 ### Level 4: Einführung in Elektronik und Bau des Controllers
 
-- **Ziele:**
-  - Grundkenntnisse über elektronische Komponenten und deren Zusammenspiel erlangen.
-  - Verbindung zwischen dem physischen Controller und Scratch-Spielen herstellen.
-  - Bauplan für den Controller finalisieren und mit dem Zusammenbau beginnen.
-- **Aktivitäten:**
-  - Einführung in grundlegende elektronische Bauteile (wie Tasten, Sensoren, LEDs).
-  - Experimentieren mit Prototyping-Plattformen (z.B. Makey Makey oder Arduino).
-  - Start des physischen Zusammenbaus der Controller-Komponenten.
+**Ziele:**
+
+- Grundkenntnisse über elektronische Komponenten und deren Zusammenspiel erlangen.
+- Verbindung zwischen dem physischen Controller und Scratch-Spielen herstellen.
+- Bauplan für den Controller finalisieren und mit dem Zusammenbau beginnen.
+
+**Aktivitäten:**
+
+- Einführung in grundlegende elektronische Bauteile (wie Tasten, Sensoren, LEDs).
+- Experimentieren mit Prototyping-Plattformen (z.B. Makey Makey oder Arduino).
+- Start des physischen Zusammenbaus der Controller-Komponenten.
 
 ### Level 5: Finalisierung und Präsentation
 
-- **Ziele:**
-  - Vollständige Zusammenstellung des Controllers.
-  - Finalisierung der Scratch-Spiele und Integration mit dem Controller.
-  - Präsentation der Projekte und Reflexion des Lernprozesses.
-- **Aktivitäten:**
-  - Endmontage des Controllers und Fehlersuche.
-  - Testen und Anpassen der Scratch-Spiele mit dem Controller.
-  - Präsentation der fertigen Projekte vor der Gruppe.
-  - Abschlussdiskussion und Feedbackrunde.
+**Ziele:**
 
-- 
+- Vollständige Zusammenstellung des Controllers.
+- Finalisierung der Scratch-Spiele und Integration mit dem Controller.
+- Präsentation der Projekte und Reflexion des Lernprozesses.
+
+**Aktivitäten:**
+
+- Endmontage des Controllers und Fehlersuche.
+- Testen und Anpassen der Scratch-Spiele mit dem Controller.
+- Präsentation der fertigen Projekte vor der Gruppe.
+- Abschlussdiskussion und Feedbackrunde.
+
+
+
+
 
 
 

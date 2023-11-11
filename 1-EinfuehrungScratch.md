@@ -10,12 +10,12 @@
 
 ### Ablauf:
 
-#### Kennenlernen (ca. 30 Minuten)
+#### Kennenlernen (ca. 20 Minuten)
 - Begrüßung und Vorstellungsrunde.
 - Ice-Breaker-Aktivität, um eine entspannte Lernatmosphäre zu schaffen.
 - Ermittlung des Wissensstands durch kurze interaktive Befragung oder spielerische Aktivität.
 
-#### Einführung in Scratch (ca. 30 Minuten)
+#### Einführung in Scratch (ca. 20 Minuten)
 - Erklärung der Scratch-Oberfläche und der Hauptfunktionen.
 - Vorstellung verschiedener Arten von Blöcken und Kategorien.
 - Durchführung von Hands-on-Aktivitäten, um mit Scratch vertraut zu werden.
@@ -35,13 +35,7 @@
 - Diskussion über die Erfahrungen und das Gelernte.
 - Sammlung von Feedback und Vorschau auf die nächsten Schritte.
 
-### Nachbereitung:
-- Bereitstellung von Ressourcen für zusätzliches Lernen und Übungsmaterial.
-- Einrichtung eines Forums oder Chats für Fragen und Diskussionen nach dem Workshop.
 
----
-
-Dieser strukturierte Ansatz soll den Teilnehmern ermöglichen, ein solides Verständnis der Scratch-Umgebung zu entwickeln und gleichzeitig ihre Fähigkeiten praktisch anzuwenden, indem sie ein einfaches, aber unterhaltsames Spiel erstellen. Der Workshop soll auch dazu beitragen, eine Grundlage für komplexere Projekte in den folgenden Workshops zu schaffen.
 
 ### Differenzierung 
 
@@ -67,17 +61,17 @@ Dieser strukturierte Ansatz soll den Teilnehmern ermöglichen, ein solides Verst
 
 ### Ablauf:
 
-#### Review und theoretische Einführung (ca. 30 Minuten)
+#### Review und theoretische Einführung (ca. 20 Minuten)
 - Wiederholung der im ersten Workshop gelernten Konzepte.
 - Vorstellung des Jump-&-Run-Genres und Besprechung bekannter Beispiele.
 - Theoretische Grundlagen zu Spielelementen wie Plattformen, Hindernissen, Feinden und Zielobjekten.
 
-#### Erweiterung der Spielmechanik (ca. 60 Minuten)
+#### Erweiterung der Spielmechanik (ca. 40 Minuten)
 - Programmierung verschiedener Level, inklusive verschiedener Plattform-Typen und Layouts.
 - Einführung von Hindernissen und Gegnern, die der Spieler überspringen oder meiden muss.
 - Integration von Sammelobjekten oder Punkten, um den Spielspaß zu erhöhen.
 
-#### Individuelle Spielanpassungen und Differenzierung (ca. 30 Minuten)
+#### Individuelle Spielanpassungen und Differenzierung (ca. 40 Minuten)
 - Anleitung zur Personalisierung des Spiels durch eigene Charaktere und Grafiken.
 - Differenzierte Aufgaben für Teilnehmer:
   - Anfänger 🐣: Hinzufügen einfacher Elemente und Feintuning der Bewegungen.
@@ -88,7 +82,3 @@ Dieser strukturierte Ansatz soll den Teilnehmern ermöglichen, ein solides Verst
 - Spielerisches Testen der entwickelten Jump-&-Run-Spiele unter den Teilnehmern.
 - Sammeln von Feedback und Besprechung der individuellen Herausforderungen.
 - Gemeinsame Reflexion und Diskussion von Möglichkeiten zur Verbesserung.
-
-### Nachbereitung:
-- Bereitstellung von Online-Ressourcen und Herausforderungen zur Vertiefung des Gelernten.
-- Anregung, das Spiel zu Hause weiterzuentwickeln und zu verbessern.
